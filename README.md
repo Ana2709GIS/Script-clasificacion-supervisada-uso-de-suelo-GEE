@@ -4,6 +4,7 @@ Este repositorio contiene el script utilizado para la validación semiautomátic
 
 [Código fuente reproducible](https://raw.githubusercontent.com/Ana2709GIS/Script-clasificacion-supervisada-uso-de-suelo-GEE/refs/heads/main/gee_LULC_classification.js)
 
+
 [Código resultante en GEE](https://code.earthengine.google.com/af80efa4f7b5a2ddc63301e842627fff?accept_repo=users%2Fmartineznathalia17%2FLANDUSES_AGRO)
 
 ## Metodología
